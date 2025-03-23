@@ -1,1 +1,1 @@
-console.log("if you're a recruiter or something and you've made it here you should probably just send me an offer :) otherwise, hello inspect element viewer!");
+console.log("if you're a recruiter or something and you've made it here you should totally just send me an offer :) otherwise, hello inspect element viewer!");
