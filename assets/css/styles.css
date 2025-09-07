@@ -6,3 +6,7 @@ indent {
     padding-left: 20px;
     display:block;
 }
+
+a:visited {
+  color: #fc7c39;
+}
